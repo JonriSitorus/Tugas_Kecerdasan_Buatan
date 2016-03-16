@@ -3,13 +3,13 @@ Tugas_AI
 
 Nama		: Jonri Karto Sitorus
 Kelas		: TP-B PAGI
-Nim		: 131113409
+Nim		  : 131113409
 
 Tugas Artificial Intelligence (AI)
 
 1.	Apakah anda setuju atau tidak dengan pendapat Turing?
 Dengan melihat kemajuan teknologi yang semakin cepat dan pesat, Saya setuju dengan pendapat Allan Turing. Karena walaupun mesin yang diciptakan sangat canggih dan hebat dan hampir sama dengan cara berpikir manusia, pasti ada kekurangannya seperti dalam hal perasaan dan kesadaran seperti manusia.
-2.	Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat?
+2. Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat?
 Mungkin untuk saat ini Tidak ada yang bisa melewati Tes Turing. Tetapi untuk waktu-waktu yang akan datang, saya yakin pasti ada yaturing.ng melewati Tes Turing. Karena jaman semakin canggih akan ada yang bisa melewati Tes Turing.
 3.	Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing?
 •	The Teological Keberatan
